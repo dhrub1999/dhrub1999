@@ -1,34 +1,59 @@
-# 💫 About Me:
-🔭 I’m currently working on a Concept Project<br>👯 I’m looking to collaborate on Startup projects<br>🤝 I’m looking for help in Backend Technologies.<br>🌱 I’m currently learning nextJS<br>💬 Ask me about ReactJS, JavaScript, Tailwindcss<br>⚡ Fun fact A single Google search consumes as much computing power as an entire Apollo moon landing mission.
+<h1 align="center">Tamal Biswas</h1>
+<p align="center">Frontend Engineer & UI/UX Designer — building healthcare SaaS products end to end</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamal-biswas-813395202) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TamalBi57183110) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@tamal-biswas) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhrub1999&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhrub1999&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrub1999&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhrub1999&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhrub1999&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <a href="https://tamalbiswas.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/tamal-biswas-813395202/">LinkedIn</a> ·
+  <a href="https://github.com/dhrub1999">GitHub</a> ·
+  <a href="mailto:contact.tamalbiswas@gmail.com">Email</a> ·
+  <a href="https://tamalbiswas.com/tamal-biswas-resume.pdf">Résumé</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhrub1999&icon=6&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/tamalbiswas) 
+### About
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a design-minded frontend engineer at **Medecro.ai**, where I've been the solo designer and a frontend developer for a healthcare SaaS platform — doctor app, patient app, and core dashboard — since mid-2024. I move fluidly between Figma and code: designing systems in one, shipping pixel-accurate, accessible interfaces with the other. Based in Kolkata, India.
+
+### Experience
+
+**SDE-I, Frontend & UI/UX** — Medecro.ai · *Apr 2025 – Present*
+Building and maintaining the doctor, patient, and dashboard apps in a Next.js/TypeScript/Tailwind monorepo — from Figma design system through to production-ready, accessible UI.
+
+**UI/UX Design Intern** — Medecro.ai · *Jul 2024 – Apr 2025*
+Solo-designed the MVP end to end: wireframes, user flows, and a scalable Figma design system for data-heavy healthcare workflows.
+
+**Frontend Developer** — Legabyte Innovations · *Dec 2023 – Jul 2024*
+Translated UI/UX specs into responsive React interfaces and reusable components.
+
+### Skills
+
+| | |
+|---|---|
+| **Design** | Figma · Adobe XD · Design Systems · Auto Layout · Variables · Prototyping · Wireframing · Accessibility (WCAG) |
+| **Frontend** | TypeScript · React · Next.js · Tailwind CSS · Shadcn/UI · Framer Motion |
+| **Backend & APIs** | Node.js · Express.js · REST APIs · NextAuth.js · Supabase · MongoDB |
+| **Tooling** | Git & GitHub · Turborepo · Storybook · Postman · Notion |
+| **AI-assisted dev** | Claude · GitHub Copilot · Gemini · Windsurf |
+
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+### Featured Projects
+
+**Budget Bliss — Personal Finance Management Platform**
+A fintech UI design system taken zero-to-launch: dashboards, budgeting, transaction tracking, and reporting for data-heavy financial workflows.
+`Figma` `Next.js` `React` `TypeScript` `Tailwind CSS`
+[Live Site](https://budget-bliss-nine.vercel.app/) · [Figma File](https://www.figma.com/design/vFr7fEWoLEU5MVNzK6dlZQ/Budget-Bliss) · [Case Study](https://tamalbiswas.com/projects/budget-bliss)
+
+**Microsoft Teams — Concept Redesign**
+A themed desktop UI concept reimagining Teams' interface with an alternate visual direction, while preserving familiar collaboration-app interaction patterns.
+`Figma` `Concept Design`
+[View Design](https://tamalbiswas.com/projects/ms-teams/teams.webp)
+
+**Safari — Full-Stack Campground Booking App**
+Authenticated listings with image uploads, geolocation, and a user review system.
+`Express.js` `MongoDB` `Passport.js` `Cloudinary` `Mapbox`
+
+---
+
+<p align="center"><sub>Open to collaborating on startup and SaaS products — <a href="mailto:contact.tamalbiswas@gmail.com">email me</a> or <a href="https://cal.com/tamal-biswas">book a call</a>.</sub></p>
